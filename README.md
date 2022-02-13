@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadeem268
 - 👀 I’m interested in ... learning new technologics
 - 🌱 I’m currently learning ... Embedded firmware
-- 💞️ I’m looking to collaborate on ...c languageses code
+- 💞️ I’m looking to collaborate on ...c languages code's
 - 📫 How to reach me ... 9568443093
 
 <!---
